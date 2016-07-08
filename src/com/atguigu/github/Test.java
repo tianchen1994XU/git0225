@@ -8,5 +8,6 @@ public class Test {
 		System.out.println("don't touch me!");
 		
 		System.out.println("haha");
+		System.out.println("hh");
 	}
 }
