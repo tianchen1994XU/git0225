@@ -6,5 +6,7 @@ public class Test {
 		System.out.println("thanks,github!");
 		System.out.println("don't touch me");
 		System.out.println("don't touch me!");
+		
+		System.out.println("haha");
 	}
 }
